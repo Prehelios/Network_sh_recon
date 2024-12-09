@@ -53,6 +53,9 @@ Une fois le script lancé, un menu interactif s'affichera dans le terminal, offr
     5. Rechercher avec crt.sh : Recherchez les sous-domaines associés à un domaine en utilisant crt.sh.
     6. Quitter : Quittez l'outil.
 
+![network_tool2](https://github.com/user-attachments/assets/740d5b82-abfb-4802-81a4-ec81fc5a7454)
+
+
 Pour chaque option, il vous sera demandé d'entrer un domaine ou une adresse IP à analyser. Vous pourrez ensuite choisir d'enregistrer les résultats dans un fichier texte.
 Contributions
 
